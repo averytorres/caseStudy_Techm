@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Mar 8, 2014 11:50:27 AM by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+    <class name="com.caseStudy.repTable" table="REPTABLE">
+        <id name="repID" type="int">
+            <column name="REPID" />
+            <generator class="increment" />
+        </id>
+        <property name="repPass" type="java.lang.String">
+            <column name="REPPASS" />
+        </property>
+        <property name="repName" type="java.lang.String">
+            <column name="REPNAME" />
+        </property>
+        <property name="repEmail" type="java.lang.String">
+            <column name="REPEMAIL" />
+        </property>
+    </class>
+</hibernate-mapping>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Mar 8, 2014 12:00:31 PM by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+    <class name="com.caseStudy.repCustInfoActionForm" table="REPCUSTINFOACTIONFORM">
+        <id name="email" type="java.lang.String">
+            <column name="EMAIL" />
+            <generator class="assigned" />
+        </id>
+        <property name="lName" type="java.lang.String" access="field">
+            <column name="LNAME" />
+        </property>
+        <property name="SSN" type="java.lang.String">
+            <column name="SSN" />
+        </property>
+        <property name="address" type="java.lang.String">
+            <column name="ADDRESS" />
+        </property>
+        <property name="phone" type="java.lang.String">
+            <column name="PHONE" />
+        </property>
+        <property name="fName" type="java.lang.String" access="field">
+            <column name="FNAME" />
+        </property>
+        <property name="securityQ" type="java.lang.String">
+            <column name="SECURITYQ" />
+        </property>
+        <property name="securityA" type="java.lang.String">
+            <column name="SECURITYA" />
+        </property>
+        <property name="password" type="java.lang.String">
+            <column name="PASSWORD" />
+        </property>
+        <property name="tvPlan" type="java.lang.String">
+            <column name="TVPLAN" />
+        </property>
+        <property name="internetPlan" type="java.lang.String">
+            <column name="INTERNETPLAN" />
+        </property>
+        <property name="payment" type="java.lang.String">
+            <column name="PAYMENT" />
+        </property>
+    </class>
+</hibernate-mapping>

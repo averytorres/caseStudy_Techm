@@ -1,0 +1,94 @@
+@CHARSET "ISO-8859-1";
+
+
+Customer_Table {
+	background-color: #ffffff;
+	width: 100%;
+	background: #00628B;
+	color: #000;
+	height: 50px;
+	margin: 0px auto 20px;
+	width: auto;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 50px;
+}
+
+Customer {
+	display: block;
+	margin-bottom: 30pt;
+	margin-left: 0;
+	padding-top: 1cm;
+	padding-bottom: 1cm;
+	background: #E6E6DC;
+	color: #000;
+	height: auto;
+	margin: 0px auto 0px;
+	width: auto;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 30px;
+	border: 2px solid;
+	border-radius: 25px;
+}
+
+First_Name {
+	font-size: 20pt;
+}
+
+Last_Name {
+	font-size: 20pt;
+}
+
+SSN {
+	display: block;
+	margin-left: 20pt;
+}
+
+Address,Phone {
+	display: block;
+	margin-left: 20pt;
+}
+
+SecurityQ,SecurityA {
+	display: block;
+	margin-left: 20pt;
+}
+
+Email,Password {
+	display: block;
+	margin-left: 20pt;
+}
+
+TvPlan,InternetPlan {
+	display: block;
+	margin-left: 20pt;
+}
+@page { 
+    @top-left {
+	content: "TOP SECRET";
+	color: red
+	width: 100%;
+	background: #00628B;
+	color: #000;
+	height: 50px;
+	margin: 0px auto 20px;
+	width: auto;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 50px;
+    }
+    @bottom-right { 
+        content: "BOTTOM";
+	font-style: italic
+	width: 100%;
+	background: #00628B;
+	color: #000;
+	height: 50px;
+	margin: 0px auto 20px;
+	width: auto;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 50px;
+    }
+}

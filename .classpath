@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/Oracle WebLogic Server 10gR3 JRE">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="oracle.eclipse.tools.weblogic.lib.system">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Hibernate/jars/antlr-2.7.6.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Hibernate/jars/c3p0-0.9.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Hibernate/jars/cglib-2.2.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Hibernate/jars/commons-collections-3.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Hibernate/jars/dom4j-1.6.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Hibernate/jars/ehcache-1.5.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Hibernate/jars/hibernate3.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Hibernate/jars/hibernate-jpa-2.0-api-1.0.0.Final.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Hibernate/jars/hibernate-testing.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Hibernate/jars/infinispan-core-4.2.0.ALPHA1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Hibernate/jars/javassist-3.12.0.GA.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Hibernate/jars/jbosscache-core-3.2.1.GA.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Hibernate/jars/jta-1.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Hibernate/jars/mysql-connector-java-5.1.15-bin.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Hibernate/jars/ojdbc6.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Hibernate/jars/oscache-2.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Hibernate/jars/proxool-0.8.3.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Hibernate/jars/slf4j-api-1.6.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Hibernate/jars/swarmcache-1.0RC2.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Struts/jakarta-struts-1.2.4/commons-dbcp-1.2.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Struts/jakarta-struts-1.2.4/commons-pool-1.2.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Struts/jakarta-struts-1.2.4/struts-legacy-1.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Struts/jakarta-struts-1.2.4/lib/struts.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Struts/jakarta-struts-1.2.4/struts-1.2.7.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Struts/hibernate-2.0.3.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Struts/antlr-2.7.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Spring/Spring-Library/spring-framework-3.1.1/dist/org.springframework.aop-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Spring/Spring-Library/spring-framework-3.1.1/dist/org.springframework.asm-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Spring/Spring-Library/spring-framework-3.1.1/dist/org.springframework.aspects-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Spring/Spring-Library/spring-framework-3.1.1/dist/org.springframework.beans-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Spring/Spring-Library/spring-framework-3.1.1/dist/org.springframework.context.support-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Spring/Spring-Library/spring-framework-3.1.1/dist/org.springframework.context-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Spring/Spring-Library/spring-framework-3.1.1/dist/org.springframework.core-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Spring/Spring-Library/spring-framework-3.1.1/dist/org.springframework.expression-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Spring/Spring-Library/spring-framework-3.1.1/dist/org.springframework.instrument.tomcat-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Spring/Spring-Library/spring-framework-3.1.1/dist/org.springframework.instrument-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Spring/Spring-Library/spring-framework-3.1.1/dist/org.springframework.jdbc-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Spring/Spring-Library/spring-framework-3.1.1/dist/org.springframework.jms-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Spring/Spring-Library/spring-framework-3.1.1/dist/org.springframework.orm-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Spring/Spring-Library/spring-framework-3.1.1/dist/org.springframework.oxm-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Spring/Spring-Library/spring-framework-3.1.1/dist/org.springframework.test-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Spring/Spring-Library/spring-framework-3.1.1/dist/org.springframework.transaction-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Spring/Spring-Library/spring-framework-3.1.1/dist/org.springframework.web.portlet-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Spring/Spring-Library/spring-framework-3.1.1/dist/org.springframework.web.servlet-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Spring/Spring-Library/spring-framework-3.1.1/dist/org.springframework.web.struts-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Frameworks/Spring/Spring-Library/spring-framework-3.1.1/dist/org.springframework.web-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

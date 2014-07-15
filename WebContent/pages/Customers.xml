@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="cust_catalog.css"?>
+<Customer_Table>
+<Customer>
+<First_Name><b>Name: </b>Amine</First_Name>
+<Last_Name> Amich</Last_Name>
+<SSN><b>SSN: </b>789-98-9874</SSN>
+<Address><b>Address: </b>784 Chambers Park, Rome, GA 30023</Address>
+<Phone><b>Phone: </b>(912)987-8465</Phone>
+<SecurityQ><b>Security Question: </b>What is your mother's maiden name?</SecurityQ>
+<SecurityA><b>Security Answer: </b>Mama Amich</SecurityA>
+<Email><b>Email: </b>Amine@gmail.com</Email>
+<Password><b>Password: </b>carApartment123</Password>
+<TvPlan><b>Tv Plan: </b>Basic Plan</TvPlan>
+<InternetPlan><b>Internet Plan: </b>20Mbps Plan</InternetPlan>
+</Customer>
+<Customer>
+<First_Name><b>Name: </b>Abraham</First_Name>
+<Last_Name> John</Last_Name>
+<SSN><b>SSN: </b>612-98-7855</SSN>
+<Address><b>Address: </b>18 Wild Horse Rd., Alpharetta, GA, 30023</Address>
+<Phone><b>Phone: </b>(912)845-9546</Phone>
+<SecurityQ><b>Security Question: </b>What is your pet's name?</SecurityQ>
+<SecurityA><b>Security Answer: </b>Pookie</SecurityA>
+<Email><b>Email: </b>Abe@gmail.com</Email>
+<Password><b>Password: </b>costco123</Password>
+<TvPlan><b>Tv Plan: </b>Premium Plan</TvPlan>
+<InternetPlan><b>Internet Plan: </b>70Mbps Plan</InternetPlan>
+</Customer>
+<Customer>
+<First_Name><b>Name: </b>Clint</First_Name>
+<Last_Name> Jarvis</Last_Name>
+<SSN><b>SSN: </b>165-65-7849</SSN>
+<Address><b>Address: </b>88 Bucksaw Ln., Backwoods, GA 30001</Address>
+<Phone><b>Phone: </b>(912)945-6654</Phone>
+<SecurityQ><b>Security Question: </b>What is your pet's name?</SecurityQ>
+<SecurityA><b>Security Answer: </b>Big Foot</SecurityA>
+<Email><b>Email: </b>Clint@gmail.com</Email>
+<Password><b>Password: </b>videoGames123</Password>
+<TvPlan><b>Tv Plan: </b>Premium Plan</TvPlan>
+<InternetPlan><b>Internet Plan: </b>45Mbps Plan</InternetPlan>
+</Customer>
+<Customer>
+<First_Name><b>Name: </b>Jaya</First_Name>
+<Last_Name> Anil</Last_Name>
+<SSN><b>SSN: </b>654-28-1946</SSN>
+<Address><b>Address: </b>18 Cumming Ln, Alpharetta, GA 30313</Address>
+<Phone><b>Phone: </b>(912)987-1946</Phone>
+<SecurityQ><b>Security Question: </b>What city where you born in?</SecurityQ>
+<SecurityA><b>Security Answer: </b>Atlanta</SecurityA>
+<Email><b>Email: </b>Jaya@gmail.com</Email>
+<Password><b>Password: </b>whereIsTrevor123</Password>
+<TvPlan><b>Tv Plan: </b>Premium Plan</TvPlan>
+<InternetPlan><b>Internet Plan: </b>70Mbps Plan</InternetPlan>
+</Customer>
+<Customer>
+<First_Name><b>Name: </b>Trevor</First_Name>
+<Last_Name> Hatcher</Last_Name>
+<SSN><b>SSN: </b>615-76-7645</SSN>
+<Address><b>Address: </b>98 Light Hill Rd, Alphretta, GA 30232</Address>
+<Phone><b>Phone: </b>(912)986-9986</Phone>
+<SecurityQ><b>Security Question: </b>What is your pet's name?</SecurityQ>
+<SecurityA><b>Security Answer: </b>Sir Biggelsworth</SecurityA>
+<Email><b>Email: </b>Trevor@gmail.com</Email>
+<Password><b>Password: </b>newCarEveryDay123</Password>
+<TvPlan><b>Tv Plan: </b>Premium Plan</TvPlan>
+<InternetPlan><b>Internet Plan: </b>20Mbps Plan</InternetPlan>
+</Customer>
+<Customer>
+<First_Name><b>Name: </b>1</First_Name>
+<Last_Name> 11</Last_Name>
+<SSN><b>SSN: </b>1</SSN>
+<Address><b>Address: </b>1</Address>
+<Phone><b>Phone: </b>1</Phone>
+<SecurityQ><b>Security Question: </b>What city where you born in?</SecurityQ>
+<SecurityA><b>Security Answer: </b>1</SecurityA>
+<Email><b>Email: </b>1</Email>
+<Password><b>Password: </b>1</Password>
+<TvPlan><b>Tv Plan: </b>No Plan</TvPlan>
+<InternetPlan><b>Internet Plan: </b>No Plan</InternetPlan>
+</Customer>
+<Customer>
+<First_Name><b>Name: </b>hgk</First_Name>
+<Last_Name> gkgkygu</Last_Name>
+<SSN><b>SSN: </b>987-98-9877</SSN>
+<Address><b>Address: </b>801 Hoptotn sc</Address>
+<Phone><b>Phone: </b>987-987-9512</Phone>
+<SecurityQ><b>Security Question: </b>What city where you born in?</SecurityQ>
+<SecurityA><b>Security Answer: </b>hgfjh</SecurityA>
+<Email><b>Email: </b>kgf@gmail.com</Email>
+<Password><b>Password: </b>wer3r3r3</Password>
+<TvPlan><b>Tv Plan: </b>Basic Plan</TvPlan>
+<InternetPlan><b>Internet Plan: </b>45Mbps Plan</InternetPlan>
+</Customer>
+</Customer_Table>

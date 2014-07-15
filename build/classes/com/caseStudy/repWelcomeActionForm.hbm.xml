@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Mar 8, 2014 11:51:32 AM by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+    <class name="com.caseStudy.repWelcomeActionForm" table="REPWELCOMEACTIONFORM">
+        <id name="pos" type="int">
+            <column name="pos" />
+            <generator class="increment" />
+        </id>
+        <property name="tvPlan" type="java.lang.String">
+            <column name="TVPLAN" />
+        </property>
+        <property name="internetPlan" type="java.lang.String">
+            <column name="INTERNETPLAN" />
+        </property>
+        <property name="payment" type="java.lang.String">
+            <column name="PAYMENT" />
+        </property>
+    </class>
+</hibernate-mapping>
